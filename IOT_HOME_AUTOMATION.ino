@@ -2,18 +2,7 @@
                /*
 Project : Home Automation 
 
-Faculty Name : Souvik Sarkar
-
-Group Members : 
-1.Ritwick Das
-2.Gourav Ranjan Dutta
-3.Aishik Sett
-4.Baisakhi Mukherjee
-5.Sourav Das Adhikary
-6.Suprakash Maity
-
 Code Written By:
-*Ritwick Das 
 *Gourav Ranjan Dutta
 
 Component Used : 
